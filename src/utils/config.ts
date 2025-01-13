@@ -1,0 +1,7 @@
+export const {
+  REACT_APP_USER,
+  REACT_APP_AUTH,
+  REACT_APP_BASE_URL,
+  REACT_APP_SUFFIX_BASE_URL,
+  REACT_CART,
+} = process.env;
